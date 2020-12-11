@@ -1,0 +1,22 @@
+{
+  "name": "salah-vue",
+  "version": "1.0.0",
+  "description": "Salah Vue library under development...",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sliemansalah/salah-vue.git"
+  },
+  "keywords": [
+    "salah-vue"
+  ],
+  "author": "sliemanSalah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sliemansalah/salah-vue/issues"
+  },
+  "homepage": "https://github.com/sliemansalah/salah-vue#readme"
+}
