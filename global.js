@@ -1,6 +1,6 @@
 import Vue from "vue";
-import i18n from "./src/i18n/i18n";
-import store from "./src/store/store";
+import i18n from "../../resources/js/admin/i18n/i18n";
+import store from "../../resources/js/admin/store/store";
 
 window.baseActions = [
     {

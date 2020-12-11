@@ -1,31 +1,35 @@
 {
-  "_from": "salah-vue@2.1.4",
+  "_from": "salah-vue@2.1.5",
+  "_id": "salah-vue@2.1.5",
   "_inBundle": false,
-  "_integrity": "sha512-LUwkPzRL6GWPoFrIoG1qCdlfZM6JM4CFTwDZ7BuV2G08uu4RVtCB/umG1I/9qsfIFuwEUR6ZhoUX4ql8l/RcDA==",
+  "_integrity": "sha512-PA0knrVOIbVXqxJDwIIT3iW9vXcDp3dI0x2Q929yPehr9298g8gz8jAkpvk/cPJ1qHlgy55z33uixWmZwVUHoQ==",
   "_location": "/salah-vue",
   "_phantomChildren": {},
   "_requested": {
     "type": "version",
     "registry": true,
-    "raw": "salah-vue@2.1.4",
+    "raw": "salah-vue@2.1.5",
     "name": "salah-vue",
     "escapedName": "salah-vue",
-    "rawSpec": "2.1.4",
+    "rawSpec": "2.1.5",
     "saveSpec": null,
-    "fetchSpec": "2.1.4"
+    "fetchSpec": "2.1.5"
   },
   "_requiredBy": [
     "#USER",
     "/"
   ],
-  "_resolved": "https://registry.npmjs.org/salah-vue/-/salah-vue-2.1.4.tgz",
-  "_shasum": "0cf984e669e7356e1946d43294ebc3f9cb9b2a38",
-  "_spec": "salah-vue@2.1.4",
+  "_resolved": "https://registry.npmjs.org/salah-vue/-/salah-vue-2.1.5.tgz",
+  "_shasum": "8335669fb194dc47462fc025118f81b56a1904fc",
+  "_spec": "salah-vue@2.1.5",
   "_where": "D:\\Accountant\\accountant",
-  "author": "sliemanSalah",
+  "author": {
+    "name": "sliemanSalah"
+  },
   "bugs": {
     "url": "https://github.com/sliemansalah/salah-vue/issues"
   },
+  "bundleDependencies": false,
   "deprecated": false,
   "description": "Salah Vue library under development...",
   "homepage": "https://github.com/sliemansalah/salah-vue#readme",
