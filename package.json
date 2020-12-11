@@ -1,22 +1,50 @@
 {
-  "name": "salah-vue",
-  "version": "2.1.3",
-  "description": "Salah Vue library under development...",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "_from": "salah-vue@2.1.3",
+  "_id": "salah-vue@2.1.3",
+  "_inBundle": false,
+  "_integrity": "sha512-K/Ntr72YYcV5hGAl8dpwocyjVFWD/621THmoK7xeF+8N/O2xMB51wrjzHXLlAU6QxBGixL+0UDSd1P9SoGdYug==",
+  "_location": "/salah-vue",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "salah-vue@2.1.3",
+    "name": "salah-vue",
+    "escapedName": "salah-vue",
+    "rawSpec": "2.1.3",
+    "saveSpec": null,
+    "fetchSpec": "2.1.3"
   },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/salah-vue/-/salah-vue-2.1.3.tgz",
+  "_shasum": "fa8512b277bb00dc60ba7a47550d1450d9db3fd1",
+  "_spec": "salah-vue@2.1.3",
+  "_where": "D:\\Accountant\\accountant",
+  "author": {
+    "name": "sliemanSalah"
+  },
+  "bugs": {
+    "url": "https://github.com/sliemansalah/salah-vue/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Salah Vue library under development...",
+  "homepage": "https://github.com/sliemansalah/salah-vue#readme",
+  "keywords": [
+    "salah-vue"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "salah-vue",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/sliemansalah/salah-vue.git"
   },
-  "keywords": [
-    "salah-vue"
-  ],
-  "author": "sliemanSalah",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/sliemansalah/salah-vue/issues"
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "homepage": "https://github.com/sliemansalah/salah-vue#readme"
+  "version": "2.1.3"
 }

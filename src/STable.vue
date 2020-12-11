@@ -104,7 +104,7 @@
             </b-row>
         </div>
 
-        <div class="search-stable-input">
+        <div class="search-STable-input">
             <div class="input-group fix-mb-25">
                 <div class="input-group-prepend">
                     <span class="input-group-text" id="basic-addon1"
