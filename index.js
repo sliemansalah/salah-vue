@@ -7,6 +7,11 @@ import SFormInputData from "./src/SFormInputData.vue";
 import SFormValidations from "./src/SFormValidations.vue";
 import STable from "./src/STable.vue";
 
+import aboutIcon from './src/icons/aboutIcon';
+import about2Icon from './src/icons/about2Icon';
+
+require('./global.js');
+
 export default {
   install(Vue, options) {
     Vue.component("SCrump", SCrump);
@@ -17,5 +22,9 @@ export default {
     Vue.component("SFormInputData", SFormInputData);
     Vue.component("SFormValidations", SFormValidations);
     Vue.component("STable", STable);
+    
+    Vue.component("aboutIcon", aboutIcon);
+    Vue.component("about2Icon", about2Icon);
+
   }
 };
