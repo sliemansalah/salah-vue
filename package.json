@@ -1,6 +1,5 @@
 {
   "_from": "salah-vue@2.1.4",
-  "_id": "salah-vue@2.1.4",
   "_inBundle": false,
   "_integrity": "sha512-LUwkPzRL6GWPoFrIoG1qCdlfZM6JM4CFTwDZ7BuV2G08uu4RVtCB/umG1I/9qsfIFuwEUR6ZhoUX4ql8l/RcDA==",
   "_location": "/salah-vue",
@@ -23,13 +22,10 @@
   "_shasum": "0cf984e669e7356e1946d43294ebc3f9cb9b2a38",
   "_spec": "salah-vue@2.1.4",
   "_where": "D:\\Accountant\\accountant",
-  "author": {
-    "name": "sliemanSalah"
-  },
+  "author": "sliemanSalah",
   "bugs": {
     "url": "https://github.com/sliemansalah/salah-vue/issues"
   },
-  "bundleDependencies": false,
   "deprecated": false,
   "description": "Salah Vue library under development...",
   "homepage": "https://github.com/sliemansalah/salah-vue#readme",
@@ -46,5 +42,5 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "version": "2.1.4"
+  "version": "2.1.5"
 }
