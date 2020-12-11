@@ -6,6 +6,13 @@ Salah Vue library under development...
 
 `npm i salah-vue --save`
 
+... then
+
+```
+import salahVue from "salah-vue";
+Vue.use(salahVue);
+
+```
 # Developer
 
 * Name: Solayman Majed Salah
