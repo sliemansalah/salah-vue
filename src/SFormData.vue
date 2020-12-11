@@ -1,8 +1,8 @@
 <template>
   <b-card>
-    <FormValidations :validations="validations" />
+    <FSormValidations :validations="validations" />
      <slot></slot>
-    <FormActions
+    <SFormActions
       @clearData="clearData"
       @saveData="saveData"
       @saveDataReturn="saveDataReturn"
