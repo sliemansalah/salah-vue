@@ -133,6 +133,14 @@
             @sort-changed="sortChanged"
             no-border-collapse
         >
+            <template v-if="" v-for="c in STable.newColumns"
+            v-slot:[`cell(${c.key})`]="row">
+                <slot :row="row"></slot>
+            </template>
+            <!-- <template #cell(status2)="row">
+                <slot :row="row"></slot>
+            </template> -->
+
             <template #empty>
                 <div class="text-center">
                     <h4 class="text-danger">{{ $t("No data here...") }}</h4>
